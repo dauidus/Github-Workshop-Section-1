@@ -1,0 +1,2 @@
+this is my little addition to the repo. it is a text file that containts text. Fetch, pull, commit, push. This is proof of me being being capable of fetching, pulling, commiting, then pushing.
+yea im adding onto this thank u sharvay
