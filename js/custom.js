@@ -1,7 +1,7 @@
 jQuery(document).ready(function(){ 
 	
 	/* ---------------------------------------------------------------------- */
-	/*	Custom Functions
+	/*	Dave's Custom Functions that he wrote, like, 4 years ago (still kicks, though)
 	/* ---------------------------------------------------------------------- */
 
 	// Logo
