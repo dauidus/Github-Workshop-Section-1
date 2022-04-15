@@ -1,1 +1,4 @@
 hello
+hi
+hello there
+general kenobi
